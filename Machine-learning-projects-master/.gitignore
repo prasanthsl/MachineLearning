@@ -1,0 +1,8 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+*.db.sqlite
+*.db.sqlite3-wal
+*.db.sqlite3-shm
